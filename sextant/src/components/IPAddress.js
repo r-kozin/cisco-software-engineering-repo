@@ -19,5 +19,5 @@ export default function IPAddress(props) {
     }
   }
 
-  return <div>{ipAddress}</div>;
+  return <div className="address-display">{ipAddress}</div>;
 }
