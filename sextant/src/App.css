@@ -31,11 +31,18 @@
   align-items: center;
   justify-content: center;
   color: white;
-  margin: 1rem auto auto auto;
+  margin: 1rem 1rem;
   border-radius: 10px;
 }
 .info-child{
   margin: auto auto 1rem auto;
+}
+.cards{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem auto auto auto;
 }
 
 .App-link {
