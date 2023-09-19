@@ -1,2 +1,2 @@
-# cisco-starter-repo
-Jumping off point for Cisco's backend Forage program
+# cisco-software-engineering-repo
+Repo for Cisco's Software Engineering Virtual Work Experience Program (Forage)
